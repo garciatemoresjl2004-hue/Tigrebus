@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747798254372",
+    "project_id": "tigrebus-v2",
+    "storage_bucket": "tigrebus-v2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747798254372:android:f1f76f891dff6c710b19b1",
+        "android_client_info": {
+          "package_name": "com.example.tigrebus_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx2ffZkEEwv86-eqBGKf7hEoyMR6wIJl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
